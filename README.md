@@ -1,5 +1,6 @@
 # sem1-python-project
 This is a project on Cyber Cafe Management System. It is in very preliminary state and not connected with any database. I have made this project using csv files.
+<br>
 It contains 4 files:
 1. Python code file: It contains code of the project.
 2. ccms: It contains details of the user.
